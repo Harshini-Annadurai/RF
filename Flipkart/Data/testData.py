@@ -5,8 +5,8 @@ url = "https://www.flipkart.com/"
 browser = "firefox"
 
 #User Login Credentials
-username = "9944166450"
-password = "fLIPKART"
+username = "xxxxxxx"  #Valid User name
+password = "xxxxxx"   #valid User password 
 
 #Product Details
 productName ="red shoes"
